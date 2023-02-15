@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&family=Roboto+Slab:wght@400;500;600&display=swap');
+
+h1 {
+    font-size: 2rem;
+    color: #fff;
+}
+
+.container h2 {
+    font-size: 1.5rem;
+}
+
+.form-select {
+    color: #212529;
+    opacity: 0.9;
+}
+
+option {
+    color: black;
+}
+
+.input-group-text {
+    background-color: #fff;
+}
+
+#nameAlert {
+    background-color: #c03512;
+    border-radius: 7px;
+    margin-top: -16px;
+    width: 50%;
+    padding-left: 15px;
+
+}
+
+#priceAlert {
+    background-color: #c03512;
+    border-radius: 7px;
+    margin-top: -16px;
+    width: 20%;
+    padding-left: 20px;
+}
+
+#descAlert {
+    background-color: #c03512;
+    border-radius: 7px;
+    margin-top: -16px;
+    width: 25%;
+    padding-left: 20px;
+
+}
+
+#capacityAlert {
+    background-color: #c03512;
+    border-radius: 7px;
+    margin-top: -16px;
+    width: 20%;
+    padding-left: 20px;
+
+}
+
+.form-label {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Roboto Slab', serif;
+}
+
+body {
+    background-color: #b87533;
+    padding-bottom: 50px;
+}
+
+.datta {
+    font-size: 30px !important;
+}
+
+.req:hover {
+    transform: scale(1.1);
+}
+
+.form-control,
+.form-select,
+.input-group,
+.table,
+.Course {
+    width: 80%;
+}
+
+.EnterData {
+    background-image: url(../image/download\ \(8\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px;
+    border-radius: 20px;
+}
+
+.table th {
+    font-size: 20px;
+}
